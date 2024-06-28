@@ -1,0 +1,202 @@
+[
+    {
+        "id_servicio": "13",
+        "descripcion": "Actualizaci\u00c3\u00b3n de BIOS",
+        "tipo": "Hardware",
+        "precioUnitario": "130",
+        "cantidad": "12",
+        "totalServicio": 1560.0
+    },
+    {
+        "id_servicio": "16",
+        "descripcion": "Actualizaci\u00c3\u00b3n de controladores",
+        "tipo": "Software",
+        "precioUnitario": "75",
+        "cantidad": "34",
+        "totalServicio": 2550.0
+    },
+    {
+        "id_servicio": "5",
+        "descripcion": "Actualizaci\u00c3\u00b3n de hardware",
+        "tipo": "Hardware",
+        "precioUnitario": "200",
+        "cantidad": "6",
+        "totalServicio": 1200.0
+    },
+    {
+        "id_servicio": "22",
+        "descripcion": "Actualizaci\u00c3\u00b3n de memoria RAM",
+        "tipo": "Hardware",
+        "precioUnitario": "120",
+        "cantidad": "6",
+        "totalServicio": 720.0
+    },
+    {
+        "id_servicio": "8",
+        "descripcion": "Configuraci\u00c3\u00b3n de red",
+        "tipo": "Software",
+        "precioUnitario": "110",
+        "cantidad": "18",
+        "totalServicio": 1980.0
+    },
+    {
+        "id_servicio": "18",
+        "descripcion": "Configuraci\u00c3\u00b3n de software especializado",
+        "tipo": "Software",
+        "precioUnitario": "95",
+        "cantidad": "16",
+        "totalServicio": 1520.0
+    },
+    {
+        "id_servicio": "12",
+        "descripcion": "Instalaci\u00c3\u00b3n de antivirus",
+        "tipo": "Software",
+        "precioUnitario": "60",
+        "cantidad": "24",
+        "totalServicio": 1440.0
+    },
+    {
+        "id_servicio": "25",
+        "descripcion": "Instalaci\u00c3\u00b3n de perif\u00c3\u00a9ricos",
+        "tipo": "Hardware",
+        "precioUnitario": "65",
+        "cantidad": "2",
+        "totalServicio": 130.0
+    },
+    {
+        "id_servicio": "2",
+        "descripcion": "Instalaci\u00c3\u00b3n de sistema operativo",
+        "tipo": "Software",
+        "precioUnitario": "80",
+        "cantidad": "25",
+        "totalServicio": 2000.0
+    },
+    {
+        "id_servicio": "3",
+        "descripcion": "Limpieza de virus y malware",
+        "tipo": "Software",
+        "precioUnitario": "120",
+        "cantidad": "10",
+        "totalServicio": 1200.0
+    },
+    {
+        "id_servicio": "19",
+        "descripcion": "Limpieza interna de polvo",
+        "tipo": "Hardware",
+        "precioUnitario": "45",
+        "cantidad": "21",
+        "totalServicio": 945.0
+    },
+    {
+        "id_servicio": "20",
+        "descripcion": "Optimizaci\u00c3\u00b3n de inicio",
+        "tipo": "Software",
+        "precioUnitario": "70",
+        "cantidad": "8",
+        "totalServicio": 560.0
+    },
+    {
+        "id_servicio": "23",
+        "descripcion": "Optimizaci\u00c3\u00b3n de software de seguridad",
+        "tipo": "Software",
+        "precioUnitario": "100",
+        "cantidad": "7",
+        "totalServicio": 700.0
+    },
+    {
+        "id_servicio": "6",
+        "descripcion": "Optimizaci\u00c3\u00b3n del sistema",
+        "tipo": "Software",
+        "precioUnitario": "90",
+        "cantidad": "8",
+        "totalServicio": 720.0
+    },
+    {
+        "id_servicio": "15",
+        "descripcion": "Recableado interno",
+        "tipo": "Hardware",
+        "precioUnitario": "110",
+        "cantidad": "8",
+        "totalServicio": 880.0
+    },
+    {
+        "id_servicio": "10",
+        "descripcion": "Recuperaci\u00c3\u00b3n de datos",
+        "tipo": "Software",
+        "precioUnitario": "180",
+        "cantidad": "19",
+        "totalServicio": 3420.0
+    },
+    {
+        "id_servicio": "1",
+        "descripcion": "Reemplazo de disco duro",
+        "tipo": "Hardware",
+        "precioUnitario": "100",
+        "cantidad": "2",
+        "totalServicio": 200.0
+    },
+    {
+        "id_servicio": "9",
+        "descripcion": "Reemplazo de teclado",
+        "tipo": "Hardware",
+        "precioUnitario": "70",
+        "cantidad": "25",
+        "totalServicio": 1750.0
+    },
+    {
+        "id_servicio": "17",
+        "descripcion": "Reparaci\u00c3\u00b3n de fuente de poder",
+        "tipo": "Hardware",
+        "precioUnitario": "140",
+        "cantidad": "5",
+        "totalServicio": 700.0
+    },
+    {
+        "id_servicio": "4",
+        "descripcion": "Reparaci\u00c3\u00b3n de pantalla",
+        "tipo": "Hardware",
+        "precioUnitario": "150",
+        "cantidad": "8",
+        "totalServicio": 1200.0
+    },
+    {
+        "id_servicio": "24",
+        "descripcion": "Reparaci\u00c3\u00b3n de puerto HDMI",
+        "tipo": "Hardware",
+        "precioUnitario": "90",
+        "cantidad": "10",
+        "totalServicio": 900.0
+    },
+    {
+        "id_servicio": "7",
+        "descripcion": "Reparaci\u00c3\u00b3n de puerto USB",
+        "tipo": "Hardware",
+        "precioUnitario": "80",
+        "cantidad": "12",
+        "totalServicio": 960.0
+    },
+    {
+        "id_servicio": "21",
+        "descripcion": "Reparaci\u00c3\u00b3n de tarjeta de video",
+        "tipo": "Hardware",
+        "precioUnitario": "180",
+        "cantidad": "12",
+        "totalServicio": 2160.0
+    },
+    {
+        "id_servicio": "11",
+        "descripcion": "Reparaci\u00c3\u00b3n de tarjeta madre",
+        "tipo": "Hardware",
+        "precioUnitario": "250",
+        "cantidad": "18",
+        "totalServicio": 4500.0
+    },
+    {
+        "id_servicio": "14",
+        "descripcion": "Reparaci\u00c3\u00b3n de ventilador",
+        "tipo": "Hardware",
+        "precioUnitario": "85",
+        "cantidad": "15",
+        "totalServicio": 1275.0
+    }
+]
